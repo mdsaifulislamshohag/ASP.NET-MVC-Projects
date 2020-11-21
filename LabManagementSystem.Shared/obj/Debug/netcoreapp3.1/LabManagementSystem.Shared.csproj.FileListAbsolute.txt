@@ -1,0 +1,9 @@
+C:\Users\avita\Projects\LabManagementSystem\LabManagementSystem.Shared\bin\Debug\netcoreapp3.1\LabManagementSystem.Shared.deps.json
+C:\Users\avita\Projects\LabManagementSystem\LabManagementSystem.Shared\bin\Debug\netcoreapp3.1\LabManagementSystem.Shared.dll
+C:\Users\avita\Projects\LabManagementSystem\LabManagementSystem.Shared\bin\Debug\netcoreapp3.1\LabManagementSystem.Shared.pdb
+C:\Users\avita\Projects\LabManagementSystem\LabManagementSystem.Shared\obj\Debug\netcoreapp3.1\LabManagementSystem.Shared.csprojAssemblyReference.cache
+C:\Users\avita\Projects\LabManagementSystem\LabManagementSystem.Shared\obj\Debug\netcoreapp3.1\LabManagementSystem.Shared.AssemblyInfoInputs.cache
+C:\Users\avita\Projects\LabManagementSystem\LabManagementSystem.Shared\obj\Debug\netcoreapp3.1\LabManagementSystem.Shared.AssemblyInfo.cs
+C:\Users\avita\Projects\LabManagementSystem\LabManagementSystem.Shared\obj\Debug\netcoreapp3.1\LabManagementSystem.Shared.csproj.CoreCompileInputs.cache
+C:\Users\avita\Projects\LabManagementSystem\LabManagementSystem.Shared\obj\Debug\netcoreapp3.1\LabManagementSystem.Shared.dll
+C:\Users\avita\Projects\LabManagementSystem\LabManagementSystem.Shared\obj\Debug\netcoreapp3.1\LabManagementSystem.Shared.pdb
